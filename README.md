@@ -1,6 +1,4 @@
-# API
+# NODE API TEMPLATE
 
-* Install node, npm & sqlite3
+* Install node, npm
 * Run `npm install`
-* Set a secret in config.js
-
